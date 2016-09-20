@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  simulation.cpp
+  lattice.cpp
+  James_Agents.cpp
+c:\users\n8352747\james_abm\james_agents\james_agents\james_agents.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  agent.cpp
+  Generating Code...
+  James_Agents.vcxproj -> C:\Users\n8352747\James_ABM\James_Agents\Debug\James_Agents.exe

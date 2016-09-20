@@ -1,0 +1,8 @@
+﻿  James_Agents.cpp
+James_Agents.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 441 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  James_Agents.vcxproj -> C:\Users\n8352747\James_ABM\James_Agents\Release\James_Agents.exe
